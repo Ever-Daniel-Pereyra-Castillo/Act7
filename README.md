@@ -3,7 +3,7 @@
 A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Página Inicio
-<img width="187" alt="image" src="https://github.com/user-attachments/assets/27fa3dfd-eae6-4b0e-b9db-c6fca5ed8d19" />
+<img width="287" alt="image" src="https://github.com/user-attachments/assets/27fa3dfd-eae6-4b0e-b9db-c6fca5ed8d19" />
 
 
 ## Página Uno
